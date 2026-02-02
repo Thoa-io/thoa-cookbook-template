@@ -5,7 +5,7 @@ Welcome 👋 and thank you for your interest in contributing to the THOA cookboo
 This repository is the **official starter template** for creating reproducible THOA cookbooks.
 Use it as a base to document, share, and publish your own bioinformatics workflows in a clear and structured way.
 
-By contributing a cookbook, you help the community run analyses faster and more reliably and you’ll earn free THOA platform credits in return.
+By contributing a cookbook, you help the community run analyses faster and more reliably and **you’ll earn free THOA platform credits in return**.
 
 ---
 
