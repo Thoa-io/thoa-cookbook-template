@@ -25,7 +25,7 @@
 # - Final Analysis / Results / Interpretation:
 #   Explain what the results mean and how they should be interpreted.
 
-title: recipe Template
+title: Recipe Template
 description: A starter template for creating new THOA recipes.
 image: /recipe-images/template.jpg
 
